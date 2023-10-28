@@ -1,0 +1,18 @@
+a{
+    border: 1px solid #FFF;
+    width: 245px;
+    height: 64px;
+    flex-shrink: 0;
+}
+button{
+    margin: 0px 0px 0px 90px;
+}
+button:hover{
+    background: rgb(137, 137, 137);
+}
+.foot{
+    background: url(./photo.jpg) no-repeat ;
+    width: 375px;
+    height: 5734px;
+}
+
